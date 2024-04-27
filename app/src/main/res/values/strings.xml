@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cancer Detection App</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="imageclassifierfailed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="inforesultsaved">Analysis results saved successfully</string>
+    <string name="labelresultdescription">What Does It Mean?</string>
+    <string name="labelrelatedarticle">Related Articles</string>
+    <string name="noncancerdescription">Great news! You are not detected to have skin cancer. Continue to maintain your health and wear sunscreen when traveling.</string>
+    <string name="cancerdescription">You are detected to have skin cancer, please see a dermatologist in your city as soon as possible. While waiting for the examination time, it is recommended that you wear sunscreen when traveling to avoid worsening your skin condition.</string>
+    <string name="actionsaveresult">Save Results</string>
+    <string name="labelemptydata">No history data yet</string>
+</resources>
